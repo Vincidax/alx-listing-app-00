@@ -1,7 +1,7 @@
 import { PropertyProps } from "@/interfaces";
 
 export const API_URL = 'https://api.example.com/listings';
-
+export const HERO_BACKGROUND = "https://example.com/hero-bg.jpg";
 // Image paths
 export const IMAGES = {
   listings: {
